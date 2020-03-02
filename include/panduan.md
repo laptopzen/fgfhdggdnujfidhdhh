@@ -5,14 +5,14 @@
 ### Yang harus dimiliki
 
 - Aplikasi Google Calendar
-- Akun Gmail
+- Akun Gmail (yang nama-anda@fisip.unmul.ac.id)
 - Komputer/laptop
 
 ### Langkah-langkah
 
 - Gunakan **laptop/komputer**
 
-- Pastikan Anda **telah login** dengan akun Gmail Anda
+- Pastikan Anda **telah login** dengan akun Gmail Anda (yang nama-anda@fisip.unmul.ac.id)
 
 - Klik salah satu link "Tambahkan ke Google Calendar" yang berada di website Psikologi Unmul (nama kalender harus sesuai dengan nama Anda)
 
@@ -23,6 +23,8 @@
 - Setelah itu muncul dialog yang kurang lebih isinya "Apakah ingin menambahkan kalender ini ke Google Calendar Anda?" Jawab aja "iya/oke". Maka, kalender telah terhubung ke akun Gmail Anda
 
 ## Penggunaan sehari-hari: menambahkan jadwal ke kalender
+
+> Keterangan: Google Calendar di HP sudah login dengan akun email dari fisip (yang nama-anda@fisip.unmul.ac.id)
 
 Setelah kalender terhubung dengan Gmail Anda, maka Anda bisa menambahkan jadwal baru, mengeditnya, atau menghapusnya dengan aplikasi Google Calendar maupun websitenya. Anda bisa melakukannya di laptop maupun HP.
 
