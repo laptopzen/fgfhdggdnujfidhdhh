@@ -52,4 +52,4 @@ Berikut ini adalah langkah-langkah untuk menambahkan jadwal:
   
 - Tekan Simpan
 
-  ![](https://i.ibb.co/kg232Xf/IMG-20200302-144242-253.jpg)
+  ![](https://i.ibb.co/HgPwzkf/IMG-20200302-152559-479.jpg)
